@@ -1,0 +1,14 @@
+# Virtual Environments
+.venv/
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Local Configuration & Security
+.env
+.vscode/
+
+# Downloaded Media Files
+downloads/
